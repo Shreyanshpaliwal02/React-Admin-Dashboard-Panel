@@ -6,7 +6,8 @@ Please Note:
 3. It is not finished yet, links such as system health, notifications,settings, sign-in and log out have not been implemented yet. But I will continue to work on this app as I learn more React, this is just the beginning
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and can be used as a template for many applications such as Netflix, Amazon Shopping etc.
+Imports - 
 
 ## Available Scripts
 
@@ -51,5 +52,5 @@ SNIPPETS:
 6.User profile
 ![image](https://user-images.githubusercontent.com/92806875/177029337-df02b8d0-f064-41e7-8492-addfd4f5744f.png)
 
-
+Shout-out to LamaDev on youtube for their awesome tutorials! https://www.youtube.com/c/LamaDev
 THANK YOU!
