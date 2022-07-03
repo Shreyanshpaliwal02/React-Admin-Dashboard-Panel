@@ -37,17 +37,18 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 SNIPPETS:
+1.Home page
 ![image](https://user-images.githubusercontent.com/92806875/177029232-8773de30-e0ac-4987-9322-23c04acbd889.png)
-Home page
+2.Home page [night mode]
 ![image](https://user-images.githubusercontent.com/92806875/177029251-4ad279f1-a11c-4eee-9682-de0b012a2f5b.png)
-Home page [night mode]
+3.Users page
 ![image](https://user-images.githubusercontent.com/92806875/177029273-4788e82b-bf30-4524-8cb1-2c433728de9a.png)
-Users page
+4.Users page [night mode]
 ![image](https://user-images.githubusercontent.com/92806875/177029287-2b770477-aa70-461b-b9d8-d06e0fb4bbdc.png)
-Users page [night mode]
+5.Add new user (1)
 ![image](https://user-images.githubusercontent.com/92806875/177029307-0801d135-d0d2-4df4-9fb4-a0e67e3d8474.png)
-Add new user (1)
+6.User profile
 ![image](https://user-images.githubusercontent.com/92806875/177029337-df02b8d0-f064-41e7-8492-addfd4f5744f.png)
-User profile
+
 
 
