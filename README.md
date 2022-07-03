@@ -1,8 +1,9 @@
 Please Note:
-1. This project has not been connected to any database yet, sample datasets were created by me.
+1. The app has not been connected to a database yet, sample datasets were created by me.
 2. This is not live yet (as I don't have the money to buy and host a domain yet :P), but it will run on your local machine.
 ( Local:            http://localhost:3000
   On Your Network:  http://192.168.1.8:3000)
+3. It is not finished yet, links such as system health, notifications,settings, sign-in and log out have not been implemented yet. But I will continue to work on this app as I learn more React, this is just the beginning
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -51,4 +52,4 @@ SNIPPETS:
 ![image](https://user-images.githubusercontent.com/92806875/177029337-df02b8d0-f064-41e7-8492-addfd4f5744f.png)
 
 
-
+THANK YOU!
