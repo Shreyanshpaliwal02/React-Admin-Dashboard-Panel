@@ -1,3 +1,4 @@
+Access the deployed app here: https://general-dashboard.vercel.app/
 Announcement- I have tried to add a Node.js server and fetched the users and products table from MongoDB with the help of a friend, pushing the new update very soon as I work through everything :)
 Please Note:
 1. The app has now been connected to a database yet, dummy datasets were created by me.
