@@ -1,11 +1,9 @@
 Access the deployed app here: https://general-dashboard.vercel.app/
-Announcement- I have tried to add a Node.js server and fetched the users and products table from MongoDB with the help of a friend, pushing the new update very soon as I work through everything :)
+Announcement- 
+I have tried to add a Node.js server and fetched the users and products table from MongoDB with the help of a friend, pushing the new update very soon as I work through everything :)
 Please Note:
-1. The app has now been connected to a database yet, dummy datasets were created by me.
-2. This is not live yet (as I don't have the money to buy and host a domain yet :P), but it will run on your local machine.
-( Local:            http://localhost:3000
-  On Your Network:  http://192.168.1.8:3000)
-3. It is not finished yet, links such as system health, notifications,settings, sign-in and log out have not been implemented yet. But I will continue to work on this app as I learn more React, this is just the beginning.
+1. The app has now been connected to a database, earlier dummy datasets were created by me.
+2. It is still under development, links such as system health, notifications,settings, sign-in and log out have not been implemented yet. But I will continue to work on this app as I learn more React, this is just the beginning.
 
 # Getting Started with Create React App
 
